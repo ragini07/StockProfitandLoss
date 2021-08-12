@@ -1,0 +1,63 @@
+:root{
+
+}
+body{
+    background-image: url('images/stock1.jpg');
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: 20% 20%;
+    background-size: cover; 
+    color:#525252;
+   
+}
+h1{
+    font-size: 2.5rem;
+}
+/* .section1{
+    width: 500px;
+    height: 550px;
+} */
+.happytheme{
+    background-image: url('https://media.giphy.com/media/26FL4fdR9oRs2tdEA/giphy.gif');
+    background-size: cover; 
+}
+.sadtheme{
+    background-image: url('images/sadtheme.jpg');
+    background-size: cover; 
+}
+.section2{
+    position: absolute;
+    top: 150px;
+    left: 700px;
+
+}
+.img{
+    width: 30rem;
+    height: 35rem;
+    margin-left: 4rem;
+    margin-top: 6rem;
+    box-shadow: 8px 3px 8px rgba(83, 82, 82, 0.616);
+    /* opacity: 0.9; */
+}
+input{
+    display:block;
+    margin: 2rem;
+    padding: 0.8rem;
+    border-radius: 0.8rem;
+    box-shadow: 8px 3px 8px rgba(83, 82, 82, 0.616);
+    
+
+
+}
+button{
+    margin-left: 3rem;
+    border-radius: 0.7rem;
+    background-color: #0C4A6E;
+
+  
+    padding: 0.7rem;
+    color:white;
+    border: none;
+    box-shadow: 8px 3px 8px rgba(83, 82, 82, 0.616);
+    font-weight: bold;
+}
